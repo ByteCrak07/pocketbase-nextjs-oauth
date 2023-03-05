@@ -7,6 +7,7 @@ specifiers:
   eslint: 8.35.0
   eslint-config-next: 13.2.3
   next: 13.2.3
+  pocketbase: ^0.12.0
   react: 18.2.0
   react-dom: 18.2.0
   typescript: 4.9.5
@@ -18,6 +19,7 @@ dependencies:
   eslint: 8.35.0
   eslint-config-next: 13.2.3_ycpbpc6yetojsgtrx3mwntkhsu
   next: 13.2.3_biqbaboplfbrettd7655fr4n2y
+  pocketbase: 0.12.0
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   typescript: 4.9.5
@@ -1751,6 +1753,10 @@ packages:
   /picomatch/2.3.1:
     resolution: {integrity: sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==}
     engines: {node: '>=8.6'}
+    dev: false
+
+  /pocketbase/0.12.0:
+    resolution: {integrity: sha512-q+a9siWZisQu50dex6oZP0Xqxden9DDL1JalopVdkHntGHyBBcbcASPowaA8A0bO5grPjN1wSHnInwP+UuCp9A==}
     dev: false
 
   /postcss/8.4.14:
